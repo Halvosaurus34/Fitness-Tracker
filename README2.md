@@ -38,11 +38,11 @@ For additional questions please reach out to me at: lhalvorson34@gmail.com.
 
 ## 🎯 Links
 
-[Deployed Eat-Da-Burger Website](https://mighty-plains-09703.herokuapp.com/)
+[Deployed Fitness Tracker Website](https://mighty-plains-09703.herokuapp.com/)
 
 ---
 
-[Eat-Da-Burger GitHub Repository](https://github.com/Halvosaurus34/Eat-Da-Burger)
+[Fitness Tracker GitHub Repository](https://github.com/Halvosaurus34/Fitness-Tracker)
 
 ---
 
